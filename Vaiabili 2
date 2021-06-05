@@ -5,7 +5,7 @@
  */
  
 #include<stdio.h>
-int base, altezza; /*Variabili globali. Usano più memoria.*/
+int base, altezza; /*Variabili globali. Usano piÃ¹ memoria.*/
 main()
 {
 	int area; /*Variabile locale. Usa meno memoria.*/
