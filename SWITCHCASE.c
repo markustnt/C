@@ -22,5 +22,8 @@ main()
 		
 		case 5: printf("\n\nCINQUE");
 		break;
+			
+		default:("NON COMPRESO");  /*default si usa per comprendere tutti gli altri casi*/
+		break;	
 	}
 }
